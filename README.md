@@ -46,6 +46,7 @@ Currently improving my skills in Manual Testing, API Testing, SQL, Jira and Post
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TestLodge-4A5568?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
