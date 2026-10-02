@@ -21,7 +21,7 @@ Currently improving my skills in Manual Testing, API Testing, SQL, Jira and Post
     srcset="https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake.svg"
   />
 </picture>
