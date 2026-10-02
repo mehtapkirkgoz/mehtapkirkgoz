@@ -11,7 +11,20 @@ Currently improving my skills in Manual Testing, API Testing, SQL, Jira and Post
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mehtapkirkgoz/mehtapkirkgoz/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
