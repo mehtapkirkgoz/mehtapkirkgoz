@@ -38,6 +38,7 @@ Currently improving my skills in Manual Testing, API Testing, SQL, Jira and Post
   <img src="https://img.shields.io/badge/API_Testing-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Test_Case_Design-475569?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bug_Reporting-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mind_Mapping-6B7280?style=for-the-badge" />
 </p>
 
 ## 🔧 QA Tools
@@ -51,6 +52,7 @@ Currently improving my skills in Manual Testing, API Testing, SQL, Jira and Post
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
